@@ -1,0 +1,26 @@
+p{
+  font-size: 20px;
+  font-weight: 100;
+}
+.zagol{
+  text-align: center;
+  color: salmon;
+}
+.blockd{
+  background-color: mistyrose;
+  padding: 20px;
+  border: 2px solid #ff761a;
+  margin: 10px;
+}
+.rodi{
+  display: flex;
+  margin: 0;
+}
+.mail{
+  padding-right: 10px;
+}
+.ava{height: 250px;
+  weight:225px;
+  display: flex;
+  float: right;
+}
